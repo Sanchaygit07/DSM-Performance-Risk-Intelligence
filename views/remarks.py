@@ -4,6 +4,8 @@ from datetime import datetime
 from db.db_manager import fetch_dsm_data
 from data.mapping_loader import enrich_dsm_data
 
+if "remarks_data" not in st.session_state:
+    st.session_state.remarks_data = []
 
 # Simple in-memory remarks storage (you can replace with DuckDB table later)
 if 'remarks_data' not in st.session_state:
