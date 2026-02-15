@@ -7,9 +7,6 @@ from db.db_manager import (
     preview_schema_mapping,
     get_ingestion_logs,
 )
-
-# Auto create DB on startup
-init_database()
 from utils.column_mapper import standardize_columns, get_mapping_report
 
 # Page config MUST be first Streamlit command
