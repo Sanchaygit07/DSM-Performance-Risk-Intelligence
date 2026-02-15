@@ -1,0 +1,20 @@
+Site,Connectivity,Plant_AC_Capacity,PPA_Rate,Technology,QCA,Power_Sale_Category,State,State_Code,Site_Name
+Agra,STU,50.0,3.07,Solar,Reconnect,Utility,Uttar Pradesh,UP,Teq Green (JP) 31
+Assam,STU,70.0,3.70,Solar,Climate Connect,Utility,Assam,AS,Teq Green (JP) 31
+AXPPL,CTU,380.0,2.55,Solar,Manikaran,Utility,Rajasthan,RJ,Altra Xergi Power Pvt Ltd
+CEPPL,STU,179.2,3.50,Hybrid,Manikaran,C&I,Karnataka,KA,Cyclic Energy Power Pvt Ltd
+CSPPL,STU,250.0,2.49,Solar,Climate Connect,Utility,Rajasthan,RJ,Clean Solar Power Pvt Ltd (bhainsada)
+DRES7,STU,7.0,6.32,Solar,Climate Connect,C&I,Andhra Pradesh,AP,DRES Energy Pvt Ltd
+DRES8,STU,7.9,6.32,Solar,Climate Connect,C&I,Andhra Pradesh,AP,DRES Energy Pvt Ltd
+EPPL,CTU,69.0,3.43,Solar,Manikaran,Merchant,Rajasthan,RJ,Energizent Power Pvt Ltd
+ESEPL,STU,10.0,6.10,Solar,Manikaran,Utility,Karnataka,KA,ES Energy PVt Ltd
+ESSPL,STU,10.0,6.10,Solar,Manikaran,Utility,Karnataka,KA,ES Solar Pvt Ltd
+ESSPPL,STU,20.0,6.10,Solar,Manikaran,Utility,Karnataka,KA,ES Solar Power Pvt
+Ghatodi,STU,30.4,3.76,Solar,Reconnect,C&I,Maharashtra,MH,Cyclic Energy Power Pvt Ltd
+Motala,STU,94.7,3.43,Solar,Reconnect,C&I,Maharashtra,MH,Cyclic Energy Power Pvt Ltd
+PSEGPL,STU,20.0,5.00,Solar,Manikaran,C&I,Maharashtra,MH,Prakreetee Solar Energy Godawari Pvt Ltd
+PWEGPL,STU,78.0,5.73,Wind,Manikaran,Utility,Maharashtra,MH,Pannama Wind Energy Godawari Pvt Ltd
+PWEPL,STU,70.4,5.74,Wind,Manikaran,Utility,Maharashtra,MH,Pannama wind Energy Pvt Ltd
+TX_12,STU,70.0,2.90,Wind,Unilink,Utility,Gujarat,GJ,Teq Green Power XII Pvt Ltd
+Washi,CTU,99.8,4.50,Wind,Manikaran,C&I & Merchant,Maharashtra,MH,Teq Green Power XI Pvt Ltd
+XLXPPL,CTU,400.0,2.43,Solar,Manikaran,Utility,Rajasthan,RJ,XL Xergi Power Pvt Ltd

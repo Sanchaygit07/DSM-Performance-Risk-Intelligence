@@ -1,0 +1,82 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "Uttar Pradesh",
+        "state_code": "UP"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[77.0, 24.0], [84.0, 24.0], [84.0, 31.0], [77.0, 31.0], [77.0, 24.0]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "Assam",
+        "state_code": "AS"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[89.5, 24.5], [96.0, 24.5], [96.0, 28.0], [89.5, 28.0], [89.5, 24.5]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "Rajasthan",
+        "state_code": "RJ"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[69.0, 23.0], [78.0, 23.0], [78.0, 30.5], [69.0, 30.5], [69.0, 23.0]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "Karnataka",
+        "state_code": "KA"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[74.0, 11.5], [78.5, 11.5], [78.5, 18.5], [74.0, 18.5], [74.0, 11.5]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "Andhra Pradesh",
+        "state_code": "AP"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[77.0, 12.5], [84.5, 12.5], [84.5, 19.5], [77.0, 19.5], [77.0, 12.5]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "Maharashtra",
+        "state_code": "MH"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[72.5, 15.5], [80.5, 15.5], [80.5, 22.0], [72.5, 22.0], [72.5, 15.5]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "Gujarat",
+        "state_code": "GJ"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[68.0, 20.0], [74.5, 20.0], [74.5, 24.5], [68.0, 24.5], [68.0, 20.0]]]
+      }
+    }
+  ]
+}
